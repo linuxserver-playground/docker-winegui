@@ -10,6 +10,8 @@ upstream:
   version:
     type: github_release
     repo: winegui/WineGUI
+    require_assets:
+      - asset: '^WineGUI\-.*\-trixie\.deb$'
   notes:
     type: github_release
     repo: winegui/WineGUI
