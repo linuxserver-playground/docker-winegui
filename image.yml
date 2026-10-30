@@ -15,6 +15,13 @@ upstream:
   notes:
     type: github_release
     repo: winegui/WineGUI
+  sponsor:
+  - name: WineGUI
+    url: https://melroy.org/donate.html
+  - name: WineGUI (GitHub Sponsors)
+    url: https://github.com/sponsors/melroy89
+  - name: WineGUI (Patreon)
+    url: https://www.patreon.com/Melroy
 
 release:
   branch: master
