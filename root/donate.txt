@@ -1,0 +1,3 @@
+WineGUI: https://melroy.org/donate.html
+WineGUI (GitHub Sponsors): https://github.com/sponsors/melroy89
+WineGUI (Patreon): https://www.patreon.com/Melroy
