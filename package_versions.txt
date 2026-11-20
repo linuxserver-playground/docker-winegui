@@ -809,7 +809,7 @@ libgck-2-2                                                                    4.
 libgcr-4-4                                                                    4.4.0.1-3                              deb                              
 libgcrypt                                                                     1.8.5-8.el8_10                         rpm                              
 libgcrypt20                                                                   1.11.0-7+deb13u1                       deb             (+1 duplicate)   
-libgd3                                                                        2.3.3-14~deb13u1                       deb             (+1 duplicate)   
+libgd3                                                                        2.3.3-14~deb13u3                       deb             (+1 duplicate)   
 libgdbm-compat4t64                                                            1.24-2                                 deb             (+1 duplicate)   
 libgdbm6t64                                                                   1.24-2                                 deb             (+1 duplicate)   
 libgdk-pixbuf-2.0-0                                                           2.42.12+dfsg-4+deb13u1                 deb             (+1 duplicate)   
